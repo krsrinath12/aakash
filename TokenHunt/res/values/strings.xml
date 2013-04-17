@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TokenHunt</string>
+    <string name="action_settings">Settings</string>
+    <string name="Name">TokenHunt</string>
+	<string name="Level">Level</string>
+	<string name="startbutton">Start Game</string>
+	<string name="edithint">Enter the level (1 - 23)</string>
+    
+</resources>
